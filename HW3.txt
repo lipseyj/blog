@@ -1,0 +1,11 @@
+11.4: The common characteristic is redundancy.
+11.7: I think that it is a good idea for radiation to be using multiversion programming as long as the systems have the same output. The more machines that are being used for each patient would increase their safety, since the more machines their are, the higher probability it is to be correct.
+11.9: If an exception is not handled by the programmer, the system will stop the exectution because it will not know what to do.
+12.5: 
+  1. get the color of the signal to know if the train can go on that track.
+  2. get the speed of the current stretch of track.
+  3. If 1 is red, then look for a different track that is green.
+  4. If 3 cannot find another track that is green, then slow the train so it stops before the red signal.
+  5. If 1 is green, then do 2
+  6. If 5 gives you a speed that is greater than the current speed start accelerating till they are equal.
+  7. If 5 gives you a speed that is less than the current speed start applying breaks till they are equal.
