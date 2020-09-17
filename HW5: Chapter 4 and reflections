@@ -1,1 +1,21 @@
+4.5)
+An unattended gas pump system that includes a credit card reader. The customer swipes the card through the reader, then specifies the amount of fuel required. The fuel is delivered and the customer's account debited.
+1. The credit card reader must be able to process the transaction.
+2. The gas pump system must be able to calculate the amount of money owed for the amount of fuel.
 
+The cash-dispensing function in a bank ATM.
+1. The bank ATM must be able to dispense the correct number of the correct bills to match the withdrawn money.
+
+In an internet banking system, a facility that allows customers to transfer funds from one account held with the bank to another account with the same bank.
+1. The internet banking system must be able to recognize the correct accounts and transfer the funds.
+
+4.6) Suggest how an engineer responsible for drawing up a system requirements specification might keep track of the relationships between functional and non-functional requirements.
+
+Non-functional requirements are more general and apply to services or functions and what they can do, while functional requirements are more for specific situations and what the system should do.
+
+4.7) Using your knowledge of how an ATM is used, develop a set of use cases that could serve as a basis for understanding the requirements for an ATM system.
+
+1. Withdraw
+2. Deposit
+3. View Balance
+4. Transfer
