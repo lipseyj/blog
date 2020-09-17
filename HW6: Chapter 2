@@ -1,0 +1,13 @@
+Suggest the most appropriate generic software process model that might be used as a basis for managing the development of the following systems. Explain your answer according to the type of system being developed:
+
+A system to control antilock braking in a car
+Incremental development would be the best because you would be able to develop it relatively quickly, you can test it in different stages, and it doesn't need any modifications or updates.
+
+A virtual reality system to support software maintenance
+Waterfall development would be the best in this case because a virtual reality system will take some time to develop and is the best software process model that supports regular maintenance.
+
+A university accounting system that replaces an existing system
+Incremental development would be best because you would be able to replace the current system quickly. It would also be easy to show the university what it would look like an do before finished so they could input if they wanted modifications.
+
+An interactive travel planning system that helps users plan journeys with the lowest environmental impact
+Integration and configuration would be the best system in this situation because you would want a large database with data on all of the different travel plans and the amount of environmental impact of each. 
