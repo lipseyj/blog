@@ -16,9 +16,9 @@
 
 <li>A computer-controlled video conferencing system that allows video, audio, and computer data to be visible to several participants at the same time.</li>
 
-<p>Top is first bullet point, bottom is second bullet point for 6.4</p><img src="Image (14)">
+<p>Top is first bullet point, bottom is second bullet point for 6.4</p><img src="Image (14).jpg">
 
 <li>A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obsturctions.</li>
 
-<img src="Image (15)">
+<img src="Image (15).jpg">
 </ul>
