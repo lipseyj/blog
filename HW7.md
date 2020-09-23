@@ -2,19 +2,19 @@
 
 
 
-###5.5: Develop a sequence diagram showing the interactions involved when a student registers for a course in a university. Courses may have limited enrollment, so the registration process must include checks that places are available. Assume that the student accesses an electronic course catalog to find out about available courses.
+<h3>5.5: Develop a sequence diagram showing the interactions involved when a student registers for a course in a university. Courses may have limited enrollment, so the registration process must include checks that places are available. Assume that the student accesses an electronic course catalog to find out about available courses.</h3>
 
 
 
-###5.7: Based on your experience with a bank ATM, draw an activity diagram that models the data processing involved when a customer withdraws cash from the machine.
+<h3>5.7: Based on your experience with a bank ATM, draw an activity diagram that models the data processing involved when a customer withdraws cash from the machine.</h3>
 
 
 
-###5.8: Draw a sequence diagram for the same system. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system.
+<h3>5.8: Draw a sequence diagram for the same system. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system.</h3>
 
 
 
-###6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:
+<h3>6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:</h3>
 
 
 <ul>
@@ -26,7 +26,7 @@
 
 <p>Answer</p>
 
-</li>A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obsturctions.</li>
+<li>A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obsturctions.</li>
 </ul>
 
 
