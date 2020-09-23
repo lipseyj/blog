@@ -8,7 +8,7 @@
 
 <h3>5.8: Draw a sequence diagram for the same system. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system.</h3>
 
-<p>Top is 5.7, bottom is 5.8</p><img src="Image (13).jpg">
+<img src="Image (13).jpg">
 
 <h3>6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:</h3>
 <ul>
