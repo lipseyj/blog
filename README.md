@@ -1,6 +1,4 @@
 # Blog for CSCI 362
-<!DOCTYPE html>
-<html>
 
 <img src="C:\Users\jdlip\OneDrive\Pictures\profile_pic.jpg" alt="profile">
 <p>Hello, my name is Jacob Lipsey. I am a senior at the College of Charleston. I like to play guitar, go surfing, and obviously coding.<br>
@@ -12,5 +10,3 @@ I'm hoping that I can develop my skills more through this class and I look forwa
 	<li>HTML</li>
 	<li>C#</li>
 </ul>
-</body>
-</html>
