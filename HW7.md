@@ -17,14 +17,16 @@
 ###6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:
 
 
-
-*A ticket machine used by passengers at a railway station.
-
-<p>Answer</p>
-
-*A computer-controlled video conferencing system that allows video, audio, and computer data to be visible to several participants at the same time.
+<ul>
+  <li>A ticket machine used by passengers at a railway station.</li>
 
 <p>Answer</p>
 
-*A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obsturctions.
+<li>A computer-controlled video conferencing system that allows video, audio, and computer data to be visible to several participants at the same time.</li>
+
+<p>Answer</p>
+
+</li>A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obsturctions.</li>
+</ul>
+
 
