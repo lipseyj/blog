@@ -7,7 +7,7 @@
 <h3>5.7: Based on your experience with a bank ATM, draw an activity diagram that models the data processing involved when a customer withdraws cash from the machine.</h3>
 
 <h3>5.8: Draw a sequence diagram for the same system. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system.</h3>
-
+<p>You would want to develop both activity and sequence diagrams because it would give you a better understanding of the system requirements, implementation, and constraints.</p>
 <img src="Image (13).jpg">
 
 <h3>6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:</h3>
