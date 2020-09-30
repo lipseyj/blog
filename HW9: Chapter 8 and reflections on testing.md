@@ -10,4 +10,4 @@
 
 <p>Answer</p>
 
-<a href="http://bowringj.people.cofc.edu/classes/csci%20362/docs/software.testing.introduction.pdf">click</a>
+<a href="http://bowringj.people.cofc.edu/classes/csci%20362/docs/software.testing.introduction.pdf" target="_blank">click</a>
