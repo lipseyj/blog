@@ -8,5 +8,4 @@
 
 <h3>Reflections on testing</h3>
  
- class notes: trying to catch bugs, debugging vs testing - debugging starts from unknown conditions  vs testing is more of a mindset & be part of development process so can catch while creating system
 <p>The testing reading discusses a wide variety of different types of testing, the difference between debugging and testing, how to catch bugs, etc. My biggest takeaway was the phases in a tester’s mental life. It explains the process of how testing software and how even testing it infinite times does not guarantee that it works. It also discusses different methods on how to test software. Bugs are a very interesting subject with so many different beliefs on bugs.</p>
