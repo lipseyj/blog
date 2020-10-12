@@ -23,3 +23,27 @@
     <td>dateTime</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Requires Interface</th>
+    <th>Component Name</th>
+    <th>Provides Interface</th>
+  </tr>
+  <tr>
+    <td>callData</td>
+    <td></td>
+    <td>recordCall</td>
+
+  </tr>
+  <tr>
+    <td></td>
+    <td>Call-Logging</td>
+    <td>phoneNumber</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>dateTime</td>
+  </tr>
+</table>
