@@ -8,13 +8,13 @@
   </tr>
   <tr>
     <td>callData</td>
-    <td>Call-Logging</td>
+    <td></td>
     <td>recordCall</td>
 
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>Call-Logging</td>
     <td>phoneNumber</td>
   </tr>
   <tr>
