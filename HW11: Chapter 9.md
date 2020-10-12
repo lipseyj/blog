@@ -6,7 +6,9 @@
   <li>Fault repairs to fix bugs and vulnerabilities: </li><br>
   <p>Answer</p>
   <li>Environmental adaption to adapt the software to new platforms and environments: </li><br>
+  <p>Answer</p>
   <li>Functionality addition to add new features and to support new requirements: </li><br>
+  <p>Answer</p>
 </ul>
 <h3>9.10: Do software engineers have a professional responsibility to develop code that can be easily maintained even if their employer does not explicitly request it?</h3>
 
