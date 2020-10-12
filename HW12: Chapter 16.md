@@ -2,18 +2,18 @@
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Requires Interface</th>
+    <th>Component Name</th>
+    <th>Provides Interface</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>callData</td>
+    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
   </tr>
 </table>
