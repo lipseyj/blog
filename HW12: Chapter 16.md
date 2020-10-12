@@ -8,7 +8,6 @@
   </tr>
   <tr>
     <td>callData</td>
-    <td></td>
     <td>recordCall</td>
 
   </tr>
