@@ -10,6 +10,7 @@
   <li>Functionality addition to add new features and to support new requirements: </li><br>
   <p>This is normally the easiest maintenance, with the least amount of changes, and is only necessary when the system requirements change responsively to organizational or business change.</p><br>
 </ul>
+<p>It is sometimes hard to distinguish between them because normally if there is some kind of Environmental adaption needed there also may be functionality addition as well to support the Environmental adaption, vice versa, or there could be faults that are caused by an Environmental adaption, etc.</p>
 
 <h3>9.10: Do software engineers have a professional responsibility to develop code that can be easily maintained even if their employer does not explicitly request it?</h3>
 
