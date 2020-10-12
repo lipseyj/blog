@@ -4,6 +4,7 @@
 
 <ul>
   <li>Fault repairs to fix bugs and vulnerabilities: </li><br>
+  <p>Answer</p>
   <li>Environmental adaption to adapt the software to new platforms and environments: </li><br>
   <li>Functionality addition to add new features and to support new requirements: </li><br>
 </ul>
