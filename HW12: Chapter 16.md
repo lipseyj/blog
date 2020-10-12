@@ -8,10 +8,18 @@
   </tr>
   <tr>
     <td>callData</td>
+    <td>Call-Logging</td>
+    <td>recordCall</td>
+
   </tr>
   <tr>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
+    <td></td>
+    <td></td>
+    <td>phoneNumber</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>dateTime</td>
   </tr>
 </table>
