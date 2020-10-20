@@ -31,19 +31,19 @@
     <th>Provides Interface</th>
   </tr>
   <tr>
-    <td>findClosestVehicle</td>
+    <td>incidentType</td>
     <td></td>
-    <td>vehicle</td>
+    <td>findClosestVehicle</td>
 
   </tr>
   <tr>
-    <td>suitableVehicle</td>
-    <td>Vehicle-Discovery</td>
     <td>zipcode</td>
+    <td>Vehicle-Discovery</td>
+    <td>suitableVehicle</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>incidentType</td>
+    <td></td>
   </tr>
 </table>
