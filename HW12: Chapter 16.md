@@ -31,7 +31,7 @@
     <th>Provides Interface</th>
   </tr>
   <tr>
-    <td>findClosestVehicle()</td>
+    <td>findClosestVehicle</td>
     <td></td>
     <td>vehicle</td>
 
