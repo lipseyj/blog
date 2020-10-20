@@ -44,6 +44,6 @@
   <tr>
     <td></td>
     <td></td>
-    <td></td>
+    <td>sendVehicle</td>
   </tr>
 </table>
