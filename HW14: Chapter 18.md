@@ -10,13 +10,13 @@
     <tr>
     <td>Currency Converter</td>
     <td>amount<br>startCurrency<br>endCurrency</td>
-    <td></td>
-    <td></td>
+    <td>convAmount<br>converted amount of money</td>
+    <td>ConversionFault<br>invalid type<br>invalid amount</td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-      <td></td>
+    <td>Currency Transaction History</td>
+    <td>cthin<br>startCurrency</td>
+    <td>cltOut<br>total number of conversions of this starting currency</td>
+    <td>TransactionHistoryFault<br>invalid type</td>
   </tr>
 </table>
