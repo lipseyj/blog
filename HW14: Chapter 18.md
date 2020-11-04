@@ -7,16 +7,22 @@
     <th>Output</th>
     <th>Exceptions</th>
   </tr>
-    <tr>
+  <tr>
     <td>Currency Converter</td>
     <td>amount<br>startCurrency<br>endCurrency</td>
     <td>convAmount<br>converted amount of money</td>
     <td>ConversionFault<br>invalid type<br>invalid amount</td>
   </tr>
-    <tr>
+  <tr>
     <td>Currency Transaction History</td>
-    <td>cthin<br>startCurrency</td>
+    <td>cthIn<br>startCurrency</td>
     <td>cltOut<br>total number of conversions of this starting currency</td>
     <td>TransactionHistoryFault<br>invalid type</td>
+  </tr>
+  <tr>
+    <td>Check Credit Rating</td>
+    <td>crIn<br>Year<br>Measure</td>
+    <td>crOut<br>Rating</td>
+    <td>CheckCreditRatingFault<br>invalid year<br>invalid measure<br>rating unavailable</td>
   </tr>
 </table>
