@@ -2,16 +2,21 @@
 
 <table>
   <tr>
-    <th></th>
-    <th></th>
+    <th>Operation</th>
+    <th>Input</th>
+    <th>Output</th>
+    <th>Exceptions</th>
+  </tr>
+    <tr>
+    <td>Currency Converter</td>
+    <td>amount<br>startCurrency<br>endCurrency</td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
     <td></td>
     <td></td>
-  </tr>
-    <tr>
     <td></td>
-    <td></td>
-    <td></td>
+      <td></td>
   </tr>
 </table>
