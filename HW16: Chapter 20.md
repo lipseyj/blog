@@ -1,3 +1,3 @@
 <h3>20.10: You work for a software company that has developed a system that provides information about consumers and that is used within a SoS by a number of other retain businesses. They pay you for the services used. Discuss the ethics of changing the system interfaces without notice to coerce users into paying higher charges. Consider this question from the point of view of the company's employees, customer, and shareholders.</h3>
 
-<p>Answer</p>
+<p>From the view of the company's employees, I would say that it would guarantee that the company would make money, which offers job security that I would be thankful for. From the view of the customer I would be upset by the lack of communication and would possibly stop using this service, especially if this is a common occurance. From the view of the shareholder I would be conccerned about how the company would still have clients if this was a regular occurance and would possibly sell my shares in the company.</p>
