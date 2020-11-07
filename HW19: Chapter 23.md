@@ -361,6 +361,7 @@
     <td></td>
   </tr>
   <tr>
+    <td>T9</td>
     <td></td>
     <td></td>
     <td></td>
@@ -371,11 +372,10 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>start</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>|M6</td>
     <td></td>
     <td></td>
     <td></td>
