@@ -73,7 +73,7 @@
   <tr>
     <td>T14</td>
     <td>10</td>
-    <td>T8, T9</td>
+    <td>T8, T9(M7)</td>
   </tr>
   <tr>
     <td>T15</td>
