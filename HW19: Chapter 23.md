@@ -43,12 +43,12 @@
   <tr>
     <td>T8</td>
     <td>35</td>
-    <td>T7</td>
+    <td>T7(M5)</td>
   </tr>
   <tr>
     <td>T9</td>
     <td>15</td>
-    <td>T6</td>
+    <td>T6(M4)</td>
   </tr>
   <tr>
     <td>T10</td>
