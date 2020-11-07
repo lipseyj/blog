@@ -123,8 +123,8 @@
   <tr>
     <td>T1</td>
     <td></td>
-    <td>M1</td>
     <td></td>
+    <td>|M1</td>
     <td></td>
     <td></td>
     <td></td>
