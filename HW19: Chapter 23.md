@@ -86,6 +86,7 @@
     <td>T15(M10)</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <th>Task</th>
@@ -601,6 +602,95 @@
 <h3>23.6: Figure 23.14 shows the task durations for software project activites. Assume that a serious, unanticipated setback occurs, and instead of taking 10 days, task T5 takes 40 days. Draw up new bar charts showing how the project might be reorganized.</h3>
 <h4>Figure 23.14:</h4>
 <p>Because the only dependecy on T5 is T10, and it is also dependent on T9 the task T5 taking 40 days instead of 10 doesn't change when the final task, T16, is completed.</p>
+
+<h4>Figure 23.14:</h4>
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Duration</th>
+    <th>Dependencies</th>
+  </tr>
+  <tr>
+    <td>T1</td>
+    <td>10</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>15</td>
+    <td>T1(M1)</td>
+  </tr>
+  <tr>
+    <td>T3</td>
+    <td>10</td>
+    <td>T1, T2(M2)</td>
+  </tr>
+  <tr>
+    <td>T4</td>
+    <td>20</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>T5</td>
+    <td>40</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>T6</td>
+    <td>15</td>
+    <td>T3, T4(M3)</td>
+  </tr>
+  <tr>
+    <td>T7</td>
+    <td>20</td>
+    <td>T3(M3)</td>
+  </tr>
+  <tr>
+    <td>T8</td>
+    <td>35</td>
+    <td>T7(M5)</td>
+  </tr>
+  <tr>
+    <td>T9</td>
+    <td>15</td>
+    <td>T6(M4)</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>5</td>
+    <td>T5, T9(M6)</td>
+  </tr>
+  <tr>
+    <td>T11</td>
+    <td>10</td>
+    <td>T9(M6)</td>
+  </tr>
+  <tr>
+    <td>T12</td>
+    <td>20</td>
+    <td>T10(M7)</td>
+  </tr>
+  <tr>
+    <td>T13</td>
+    <td>35</td>
+    <td>T3, T4(M3)</td>
+  </tr>
+  <tr>
+    <td>T14</td>
+    <td>10</td>
+    <td>T8, T9(M8)</td>
+  </tr>
+  <tr>
+    <td>T15</td>
+    <td>20</td>
+    <td>T12, T14(M9)</td>
+  </tr>
+  <tr>
+    <td>T16</td>
+    <td>10</td>
+    <td>T15(M10)</td>
+  </tr>
+</table>
 <table>
   <tr>
     <th>Task</th>
