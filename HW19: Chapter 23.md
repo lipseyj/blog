@@ -331,6 +331,7 @@
     <td></td>
   </tr>
   <tr>
+    <td>T8</td>
     <td></td>
     <td></td>
     <td></td>
@@ -342,15 +343,14 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>start</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>|M8</td>
     <td></td>
     <td></td>
     <td></td>
