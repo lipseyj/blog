@@ -53,12 +53,12 @@
   <tr>
     <td>T10</td>
     <td>5</td>
-    <td>T5, T9</td>
+    <td>T5, T9(M6)</td>
   </tr>
   <tr>
     <td>T11</td>
     <td>10</td>
-    <td>T9</td>
+    <td>T9(M6)</td>
   </tr>
   <tr>
     <td>T12</td>
