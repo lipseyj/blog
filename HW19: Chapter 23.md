@@ -78,12 +78,12 @@
   <tr>
     <td>T15</td>
     <td>20</td>
-    <td>T12, T14</td>
+    <td>T12, T14(M9)</td>
   </tr>
   <tr>
     <td>T16</td>
     <td>10</td>
-    <td>T15</td>
+    <td>T15(M10)</td>
   </tr>
 </table>
 <h3>23.6: Figure 23.14 shows the task durations for software project activites. Assume that a serious, unanticipated setback occurs, and instead of taking 10 days, task T5 takes 40 days. Draw up new bar charts showing how the project might be reorganized.</h3>
