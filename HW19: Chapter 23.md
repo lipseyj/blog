@@ -1,4 +1,4 @@
-<h2>Figure 23.14:</h2>
+<h4>Figure 23.14:</h4>
 <table>
   <tr>
     <th>Task</th>
