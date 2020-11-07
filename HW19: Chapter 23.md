@@ -89,3 +89,35 @@
 <h3>23.6: Figure 23.14 shows the task durations for software project activites. Assume that a serious, unanticipated setback occurs, and instead of taking 10 days, task T5 takes 40 days. Draw up new bar charts showing how the project might be reorganized.</h3>
 <h4>Figure 23.14:</h4>
 <p>Because the only dependecy on T5 is T10, and it is also dependent on T9 the task T5 taking 40 days instead of 10 doesn't change when the final task, T16, is completed.</p>
+<table>
+  <tr>
+    <th>Task</th>
+    <th>0</th>
+    <th>5</th>
+    <th>10</th>
+    <th>15</th>
+    <th>20</th>
+    <th>25</th>
+    <th>30</th>
+    <th>35</th>
+    <th>40</th>
+    <th>45</th>
+    <th>50</th>
+    <th>55</th>
+    <th>60</th>
+    <th>65</th>
+    <th>70</th>
+    <th>75</th>
+    <th>80</th>
+    <th>85</th>
+    <th>90</th>
+    <th>95</th>
+    <th>100</th>
+    <th>105</th>
+    <th>110</th>
+    <th>115</th>
+    <th>120</th>
+    <th>125</th>
+    <th>130</th>
+  </tr>
+</table>
