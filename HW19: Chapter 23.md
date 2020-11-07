@@ -63,7 +63,7 @@
   <tr>
     <td>T12</td>
     <td>20</td>
-    <td>T10</td>
+    <td>T10(M7)</td>
   </tr>
   <tr>
     <td>T13</td>
