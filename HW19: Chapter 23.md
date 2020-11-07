@@ -18,7 +18,7 @@
   <tr>
     <td>T3</td>
     <td>10</td>
-    <td>T1, T2</td>
+    <td>T1, T2(M2)</td>
   </tr>
   <tr>
     <td>T4</td>
@@ -33,12 +33,12 @@
   <tr>
     <td>T6</td>
     <td>15</td>
-    <td>T3, T4</td>
+    <td>T3, T4(M3)</td>
   </tr>
   <tr>
     <td>T7</td>
     <td>20</td>
-    <td>T3</td>
+    <td>T3(M3)</td>
   </tr>
   <tr>
     <td>T8</td>
@@ -68,7 +68,7 @@
   <tr>
     <td>T13</td>
     <td>35</td>
-    <td>T3, T4</td>
+    <td>T3, T4(M3)</td>
   </tr>
   <tr>
     <td>T14</td>
