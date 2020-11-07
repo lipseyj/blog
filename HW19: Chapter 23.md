@@ -88,6 +88,7 @@
 </table>
 <h3>23.6: Figure 23.14 shows the task durations for software project activites. Assume that a serious, unanticipated setback occurs, and instead of taking 10 days, task T5 takes 40 days. Draw up new bar charts showing how the project might be reorganized.</h3>
 <h4>Figure 23.14:</h4>
+<p>Remove the dependency of T10 on T5, so T10 can be finished beforehand and no tasks are dependent on T5, which is now the task with the longest duration. If you don't do this it pushes back T9, which pushes back T10, T11, and T14. If those are pushed back then T12 and T15 get pushed back which also pushes back T16. By removing the dependency on T5 for T10 it causes for no other tasks to be pushed back.</p>
 <table>
   <tr>
     <th>Task</th>
