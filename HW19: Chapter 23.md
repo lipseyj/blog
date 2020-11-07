@@ -13,7 +13,7 @@
   <tr>
     <td>T2</td>
     <td>15</td>
-    <td>T1</td>
+    <td>T1(M1)</td>
   </tr>
   <tr>
     <td>T3</td>
