@@ -242,7 +242,7 @@
   </tr>
   <tr>
     <td>T5</td>
-    <td>T5</td>
+    <td>start</td>
     <td></td>
     <td></td>
     <td></td>
@@ -271,6 +271,7 @@
     <td></td>
   </tr>
   <tr>
+    <td>T6</td>
     <td></td>
     <td></td>
     <td></td>
@@ -278,11 +279,10 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>start</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>|M4</td>
     <td></td>
     <td></td>
     <td></td>
@@ -301,6 +301,7 @@
     <td></td>
   </tr>
   <tr>
+    <td>T7</td>
     <td></td>
     <td></td>
     <td></td>
@@ -308,12 +309,11 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>start</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>|M5</td>
     <td></td>
     <td></td>
     <td></td>
