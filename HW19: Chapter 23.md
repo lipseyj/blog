@@ -151,13 +151,13 @@
     <td></td>
   </tr>
   <tr>
+    <td>T2</td>
     <td></td>
     <td></td>
+    <td>start</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>|M2</td>
     <td></td>
     <td></td>
     <td></td>
