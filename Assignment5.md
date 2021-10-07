@@ -3,10 +3,11 @@
 2. Regular Expressions <br>
   a. [a-z][a-z0-9]* <br>
   b. [0-9]*\\\\.[0-9] <br>
-
 3. Backus-Naur form <br>
-  a. cat myfile && cat yourfile <br>
-  <br>
+  a. cat myfile && cat yourfile <br><br>
+    commandline <br>
+    list (1) <br>
+    conditional (2) <br>
     conditional && pipeline (3) <br>
     pipeline && pipeline (3) <br>
     command && pipeline (4) <br>
@@ -16,10 +17,8 @@
     cat myfile && command (4) <br>
     cat myfile && command word (5) <br>
     cat myfile && cat word <br>
-    cat myfile && cat yourfile <br>
-  <br>
-  b. ls | grep something > somefile <br>
-  <br>
+    cat myfile && cat yourfile <br><br>
+  b. ls | grep something > somefile <br><br>
     pipeline | command (3) <br>
     command | command (5) <br>
     ls | command <br>
@@ -29,10 +28,8 @@
     ls | grep something redirection <br>
     ls | grep something redirectionop filename (6) <br>
     ls | grep something > filename (7) <br>
-    ls | grep something > somefile <br>
-  <br>
-  c. somecmd someparm || othercmd; gcc myfile > output <br>
-  <br>
+    ls | grep something > somefile <br><br>
+  c. somecmd someparm || othercmd; gcc myfile > output <br><br>
     commandline
     list; (1) <br>
     list; conditional (2) <br>
@@ -53,10 +50,8 @@
     somecd someparm || othercmd; gcc word redirectionop filename <br>
     somecd someparm || othercmd; gcc myfile redirectionop filename <br>
     somecd someparm || othercmd; gcc myfile > filename (7) <br>
-    somecd someparm || othercmd; gcc myfile > output <br>
-  <br>
-  d. cmd1; cmd2 && cmd3; less output <br>
-  <br>
+    somecd someparm || othercmd; gcc myfile > output <br><br>
+  d. cmd1; cmd2 && cmd3; less output <br><br>
     commandline commandline <br>
     list; commandline (1) <br>
     conditional; commandline (2) <br>
