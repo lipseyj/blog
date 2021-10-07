@@ -19,6 +19,10 @@
     cat myfile && cat word <br>
     cat myfile && cat yourfile <br><br>
   b. ls | grep something > somefile <br><br>
+    commandline <br>
+    list (1) <br>
+    conditional (2) <br>
+    pipeline (3) <br>
     pipeline | command (3) <br>
     command | command (5) <br>
     ls | command <br>
@@ -30,7 +34,7 @@
     ls | grep something > filename (7) <br>
     ls | grep something > somefile <br><br>
   c. somecmd someparm || othercmd; gcc myfile > output <br><br>
-    commandline
+    commandline <br>
     list; (1) <br>
     list; conditional (2) <br>
     conditional; conditional (2) <br>
